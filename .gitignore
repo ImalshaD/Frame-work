@@ -26,11 +26,11 @@
 Thumbs.db
 
 # Ignore additional files
-__pychace__
+__pycache__
 .conda/
 htmlcov/
 .coverage
 
 # Ignore __pychache__ inside src and test directories
-/src/__pychache__/
+/src/__pycache__/
 /test/__pychache__/
